@@ -61,6 +61,8 @@ Run generate_messages.py to generate customized messages.
 
 Optionally, run send_emails_smtp.py or send_to_telegram.py to dispatch messages.
 
+---
+
 ##👤 Author
 
 Sachin Ganesh Jadhav
