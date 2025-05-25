@@ -54,7 +54,6 @@ A Python-based automation project that processes participant data from events, g
 
 ---
 
----
 ## 📌 Usage
 Run clean_data.py to clean your raw data (Data.xlsx).
 
