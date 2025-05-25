@@ -34,12 +34,19 @@ A Python-based automation project that processes participant data from events, g
 
 .
 ├── clean_data.py # Cleans raw Excel data
+
 ├── cleaned_output.csv # Cleaned participant data
+
 ├── generate_messages.py # Personalized message generation
+
 ├── messages_output.csv # Final message CSV
+
 ├── messages_txt/ # Individual messages (optional)
+
 ├── send_emails_smtp.py # Email automation via SMTP (optional)
+
 ├── send_to_telegram.py # Telegram bot integration (optional)
+
 └── README.md
 
 
